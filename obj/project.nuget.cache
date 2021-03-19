@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PsPhGdfjBTFpuvRsQMvHlVTgQrpkGz5BCleCQJ/R/dD3uY8XHtgMVbolffyOkzS99JEHOy1o21JH7460oxCgKw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\villa\\Desktop\\5to Semestre\\Programación III\\clases\\ArbolPrimer\\ArbolPrimer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\villa\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

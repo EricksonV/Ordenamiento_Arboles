@@ -1,0 +1,15 @@
+C:\Users\villa\Desktop\5to Semestre\Programación III\clases\ArbolPrimer\bin\Debug\netcoreapp3.1\ArbolPrimer.exe
+C:\Users\villa\Desktop\5to Semestre\Programación III\clases\ArbolPrimer\bin\Debug\netcoreapp3.1\ArbolPrimer.deps.json
+C:\Users\villa\Desktop\5to Semestre\Programación III\clases\ArbolPrimer\bin\Debug\netcoreapp3.1\ArbolPrimer.runtimeconfig.json
+C:\Users\villa\Desktop\5to Semestre\Programación III\clases\ArbolPrimer\bin\Debug\netcoreapp3.1\ArbolPrimer.runtimeconfig.dev.json
+C:\Users\villa\Desktop\5to Semestre\Programación III\clases\ArbolPrimer\bin\Debug\netcoreapp3.1\ArbolPrimer.dll
+C:\Users\villa\Desktop\5to Semestre\Programación III\clases\ArbolPrimer\bin\Debug\netcoreapp3.1\ArbolPrimer.pdb
+C:\Users\villa\Desktop\5to Semestre\Programación III\clases\ArbolPrimer\obj\Debug\netcoreapp3.1\ArbolPrimer.csprojAssemblyReference.cache
+C:\Users\villa\Desktop\5to Semestre\Programación III\clases\ArbolPrimer\obj\Debug\netcoreapp3.1\ArbolPrimer.AssemblyInfoInputs.cache
+C:\Users\villa\Desktop\5to Semestre\Programación III\clases\ArbolPrimer\obj\Debug\netcoreapp3.1\ArbolPrimer.AssemblyInfo.cs
+C:\Users\villa\Desktop\5to Semestre\Programación III\clases\ArbolPrimer\obj\Debug\netcoreapp3.1\ArbolPrimer.dll
+C:\Users\villa\Desktop\5to Semestre\Programación III\clases\ArbolPrimer\obj\Debug\netcoreapp3.1\ArbolPrimer.pdb
+C:\Users\villa\Desktop\5to Semestre\Programación III\clases\ArbolPrimer\obj\Debug\netcoreapp3.1\ArbolPrimer.genruntimeconfig.cache
+C:\Users\villa\Desktop\5to Semestre\Programación III\clases\ArbolPrimer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\villa\Desktop\5to Semestre\Programación III\clases\ArbolPrimer\obj\Debug\netcoreapp3.1\ArbolPrimer.csproj.CoreCompileInputs.cache
+C:\Users\villa\Desktop\5to Semestre\Programación III\clases\ArbolPrimer\obj\Debug\netcoreapp3.1\ArbolPrimer.csproj.CopyComplete

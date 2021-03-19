@@ -1,0 +1,9 @@
+digraph G{
+ladra;
+ladra->perro;
+ladra->come eucalipto;
+come eucalipto->koala;
+come eucalipto->Elefante;
+
+}
+
